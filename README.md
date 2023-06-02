@@ -36,9 +36,9 @@ Some features were implemented:
 ## View this App:
 >Click the image below to view this App!
 
-[![employees](https://github.com/OlgaBuLL/Vue3-Employee/assets/108359930/af67973b-6d6e-4572-a3fc-5810de1fd55a)](https://olgabull.github.io/Vue3-Employee/)
+<a href="https://olgabull.github.io/Vue3-Employee/"><img src="https://github.com/OlgaBuLL/Vue3-Employee/assets/108359930/af67973b-6d6e-4572-a3fc-5810de1fd55a"/></a>
 
-<br>
+
 
 ## Getting started
 
