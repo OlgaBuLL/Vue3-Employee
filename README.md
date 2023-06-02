@@ -16,7 +16,6 @@
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> 
 </p>
 <br>
-<br>
 
 ## About The Project
 
@@ -33,14 +32,12 @@ Some features were implemented:
 ◾  Routing. Our users can switch beetween 3 pages: Home Page, Employees Page, About Page    
 
 <br>
-<br>
 
 ## View this App:
 >Click the image below to view this App!
 
-[![employees](https://github.com/OlgaBuLL/Vue3-Employee/assets/108359930/bfceff54-fc12-4f22-8405-f4f54c487103)](https://olgabull.github.io/Vue3-Employee/)
+[![employees](https://github.com/OlgaBuLL/Vue3-Employee/assets/108359930/af67973b-6d6e-4572-a3fc-5810de1fd55a)](https://olgabull.github.io/Vue3-Employee/)
 
-<br>
 <br>
 
 ## Getting started
@@ -51,10 +48,7 @@ In the project directory, you can run the following comands:
 
 `npm run serve`    
 
-  
 <br>
-<br>
-
 
 ## Contacts
 
